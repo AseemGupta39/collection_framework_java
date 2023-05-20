@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Iterator;
 
-public class a {
+public class arraylist_s {
     
     public static void main(String[] args) {
        
